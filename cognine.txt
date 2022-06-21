@@ -1,0 +1,6 @@
+mkdir projectname
+~$ cd projectname
+~$ git init
+~$ touch file1
+~$ git add file1
+~$ git commit -m 'first commit'
